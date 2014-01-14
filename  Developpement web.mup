@@ -1,0 +1,479 @@
+{
+  "title": " Developpement web",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "14": {
+      "title": "Autres",
+      "id": 12,
+      "ideas": {
+        "2": {
+          "title": "refactoring",
+          "id": 64
+        },
+        "3": {
+          "title": "scaffold",
+          "id": 65
+        },
+        "4": {
+          "title": "API",
+          "id": 81
+        },
+        "5": {
+          "title": "testing",
+          "id": 83,
+          "ideas": {
+            "1": {
+              "title": "TDD",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "BDD",
+              "id": 84,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
+    },
+    "-1": {
+      "title": "Back end",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Base de données",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "ActiveRecord",
+              "id": 23
+            },
+            "2": {
+              "title": "Sqlite",
+              "id": 24
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "Ruby",
+          "id": 26,
+          "ideas": {
+            "3": {
+              "title": "frameworks",
+              "id": 75,
+              "ideas": {
+                "1": {
+                  "title": "Sinatra",
+                  "id": 38,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Rails",
+                  "id": 36,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
+    },
+    "-13": {
+      "title": "Deploiement",
+      "id": 5
+    },
+    "2.5": {
+      "title": "Outils",
+      "id": 40,
+      "ideas": {
+        "2": {
+          "title": "Versioning",
+          "id": 57,
+          "ideas": {
+            "1": {
+              "title": "Git",
+              "id": 41,
+              "ideas": {
+                "1": {
+                  "title": "Github",
+                  "id": 46,
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Linux",
+          "id": 43,
+          "ideas": {
+            "1": {
+              "title": "Archlinux",
+              "id": 48
+            },
+            "2": {
+              "title": "Ubuntu",
+              "id": 49
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "0.75": {
+          "title": "Terminal",
+          "id": 44,
+          "ideas": {
+            "1": {
+              "title": "Terminator",
+              "id": 50
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "0.875": {
+          "title": "Editeur de texte",
+          "id": 53,
+          "ideas": {
+            "1": {
+              "title": "Sublime text",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": "auto-complétion",
+                  "id": 59,
+                  "ideas": {
+                    "1": {
+                      "title": "tab trigger",
+                      "id": 60
+                    }
+                  }
+                },
+                "2": {
+                  "title": "recherche ",
+                  "id": 61,
+                  "ideas": {
+                    "1": {
+                      "title": "ctrl P",
+                      "id": 62
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Gedit",
+              "id": 58
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
+    },
+    "0.5": {
+      "title": "Conception",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Mockups",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "balsamiq",
+              "id": 9
+            },
+            "2": {
+              "title": "mocking bird",
+              "id": 10
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "cahier des charges",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "CC fonctionnel",
+              "id": 51
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
+    },
+    "-0.5": {
+      "title": "Front end",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "HTML",
+          "id": 15,
+          "ideas": {}
+        },
+        "2": {
+          "title": "CSS",
+          "id": 17,
+          "ideas": {
+            "3": {
+              "title": "frameworks",
+              "id": 70,
+              "ideas": {
+                "1": {
+                  "title": "Bootstrap",
+                  "id": 21,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Foundation",
+                  "id": 19,
+                  "ideas": {
+                    "1": {
+                      "title": "grid",
+                      "id": 66
+                    },
+                    "2": {
+                      "title": "icones",
+                      "id": 67
+                    },
+                    "3": {
+                      "title": "goodies javascript",
+                      "id": 68
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Sass",
+              "id": 71,
+              "ideas": {
+                "1": {
+                  "title": "définition variables",
+                  "id": 72
+                },
+                "2": {
+                  "title": "nesting",
+                  "id": 73
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Javascript",
+          "id": 76
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
+    },
+    "1.5": {
+      "title": "Théorie",
+      "id": 29,
+      "ideas": {
+        "4": {
+          "title": "Front end",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "Design",
+              "id": 34
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "5": {
+          "title": "Back end",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "MVC",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "REST",
+              "id": 32,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "CRUD",
+                  "id": 39,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "16": {
+          "title": "Developpement",
+          "id": 78,
+          "ideas": {
+            "1": {
+              "title": "DRY",
+              "id": 31,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "OOP",
+              "id": 79
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#22AAE0"
+    }
+  }
+}
